@@ -33,7 +33,7 @@ class _LoginState extends State<Login> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text("Welcome back to Destiny APP",style: TextStyle(fontSize: 28,fontWeight: FontWeight.bold,color: Colors.white),),
-                Text("Aiswarya")
+                Text("Aiswarya"),
 
                 SizedBox(height: 50,),
 
